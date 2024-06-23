@@ -23,7 +23,7 @@
             "name": "Mac",
             "includePath": [
                 "${workspaceFolder}/**",
-                "/opt/homebrew/include"
+                "/Users/aaron/Downloads/raylib/src/**"
             ],
             "defines": [
                 "_DEBUG",
