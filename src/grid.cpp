@@ -29,21 +29,6 @@ void Grid::Print() {
   }
 }
 
-// std::vector<Color> Grid::GetCellColors() {
-//   const Color darkGrey = {26, 31, 40, 255};
-//   const Color green = {47, 230, 23, 255};
-//   const Color red = {232, 18, 18, 255};
-//   const Color orange = {226, 116, 17, 255};
-//   const Color yellow = {237, 234, 4, 255};
-//   const Color purple = {166, 0, 247, 255};
-//   const Color cyan = {21, 204, 209, 255};
-//   const Color blue = {13, 64, 216, 255};
-//   const Color lightBlue = {59, 85, 162, 255};
-//   const Color darkBlue = {44, 44, 127, 255};
-
-//   return {darkGrey, green, red, orange, yellow, purple, cyan, blue, lightBlue, darkBlue};
-// }
-
 void Grid::Draw() {
   auto colors = GetCellColors();
   for (int row = 0; row < numRows; row++) {
@@ -52,4 +37,11 @@ void Grid::Draw() {
       DrawRectangle(col * cellSize + 1, row * cellSize + 1, cellSize - 1, cellSize - 1, colors[cellValue]);
     }
   }
+}
+
+bool Grid::IsCellOutside(int row, int col) {
+  if (row >= 0 && row < numRows && col >= 0 && col < numCols) {
+    return false;
+  }
+  return true;
 }
