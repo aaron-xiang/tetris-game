@@ -1,0 +1,25 @@
+_deps/raylib-build/raylib/CMakeFiles/raylib.dir/rshapes.c.o: \
+  /Users/aaron/Downloads/raylib-test/build/_deps/raylib-src/src/rshapes.c \
+  /Users/aaron/Downloads/raylib-test/build/_deps/raylib-src/src/raylib.h \
+  /Users/aaron/Downloads/emsdk/upstream/emscripten/cache/sysroot/include/compat/stdarg.h \
+  /Users/aaron/Downloads/emsdk/upstream/lib/clang/19/include/stdarg.h \
+  /Users/aaron/Downloads/emsdk/upstream/emscripten/cache/sysroot/include/stdarg.h \
+  /Users/aaron/Downloads/emsdk/upstream/lib/clang/19/include/__stdarg_header_macro.h \
+  /Users/aaron/Downloads/emsdk/upstream/lib/clang/19/include/__stdarg___gnuc_va_list.h \
+  /Users/aaron/Downloads/emsdk/upstream/lib/clang/19/include/__stdarg_va_list.h \
+  /Users/aaron/Downloads/emsdk/upstream/lib/clang/19/include/__stdarg_va_arg.h \
+  /Users/aaron/Downloads/emsdk/upstream/lib/clang/19/include/__stdarg___va_copy.h \
+  /Users/aaron/Downloads/emsdk/upstream/lib/clang/19/include/__stdarg_va_copy.h \
+  /Users/aaron/Downloads/emsdk/upstream/lib/clang/19/include/stdbool.h \
+  /Users/aaron/Downloads/emsdk/upstream/emscripten/cache/sysroot/include/stdbool.h \
+  /Users/aaron/Downloads/raylib-test/build/_deps/raylib-src/src/config.h \
+  /Users/aaron/Downloads/raylib-test/build/_deps/raylib-src/src/rlgl.h \
+  /Users/aaron/Downloads/emsdk/upstream/emscripten/cache/sysroot/include/compat/math.h \
+  /Users/aaron/Downloads/emsdk/upstream/emscripten/cache/sysroot/include/math.h \
+  /Users/aaron/Downloads/emsdk/upstream/emscripten/cache/sysroot/include/features.h \
+  /Users/aaron/Downloads/emsdk/upstream/emscripten/cache/sysroot/include/bits/alltypes.h \
+  /Users/aaron/Downloads/emsdk/upstream/lib/clang/19/include/float.h \
+  /Users/aaron/Downloads/emsdk/upstream/emscripten/cache/sysroot/include/float.h \
+  /Users/aaron/Downloads/emsdk/upstream/emscripten/cache/sysroot/include/compat/stdlib.h \
+  /Users/aaron/Downloads/emsdk/upstream/emscripten/cache/sysroot/include/stdlib.h \
+  /Users/aaron/Downloads/emsdk/upstream/emscripten/cache/sysroot/include/alloca.h
