@@ -1,1 +1,0 @@
-/Users/aaron/Downloads/emsdk/upstream/emscripten/em++ -sUSE_GLFW=3 @CMakeFiles/tetris_game.dir/objects1.rsp -o tetris_game/tetris_game.html @CMakeFiles/tetris_game.dir/linkLibs.rsp
